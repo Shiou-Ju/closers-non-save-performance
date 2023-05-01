@@ -46,5 +46,13 @@ https://www.espn.com/mlb/columns/story?columnist=schwarz_alan&id=1835745
 
 ### 最終決定選擇 1990 年
 
+***
+
+## 檔案說明
+
+### brief-look-pybaseball-apis.ipynb
+調查 pybaseball 的 API。
 ### non-save-situation-blow-save.ipynb
+分析非救援情況下，救援投手的表現。
+
 
