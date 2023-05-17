@@ -2,6 +2,7 @@
 # 同時具有 "Year" 和 "IsModernCloser" 作為特徵的模型的 MSE 是 50.44，並且 R2 分數是 0.7110。
 # 只有 "IsModernCloser" 作為特徵的模型的 MSE 是 57.17，並且 R2 分數是 0.6712。
 
+import joblib
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error, r2_score
@@ -74,3 +75,5 @@ r2 = r2_score(y_test, y_pred)
 print(f"Mean Squared Error (MSE) with 'IsModernCloser': {mse}")
 print(f"R-squared (R2 ) with 'IsModernCloser': {r2}")
 
+
+joblib.dump(model, 'model.pkl')
