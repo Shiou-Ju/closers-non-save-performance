@@ -1,17 +1,31 @@
-# 在非救援情況下登版，救援投手是否表現比較差？
+# Do baseball closers perform worse in non-save situations?
+在非救援情況下登版，救援投手是否表現比較差？
 
-## 結論
+
+## Conclusion
+1. The performance is indeed slightly worse, Their performance is indeed slightly worse, registering about a 4% difference. However, this doesn't absolutely mean that closers should not be used in non-save situations. 
+
+2. Since 2017, there's been a noticeable trend of closers increasingly being used in non-save situations, coupled with a decrease in their usage during save situations. 
+
+3. A review of BAbip, BA, and OBP indicates an improvement in the performance of closers in non-save situations post-2017 as compared to prior years. This seems to indicate that closers have come to understand that their real value lies in crisis resolution, leading to a paradigm shift from past practices.
+
+#### 結論
 1. 表現確實較差，約有 4% 的差距，但並不會因此說絕對不能把終結者使用在非救援的情境。
 2. 自 2017 以來，終結者有在非救援情況增加出賽的趨勢，並且有減少於救援情況使用的比率。
 3. 從 BAbip, BA, OBP 來看，非救援情況的終結者的表現在 2017 年以後，有比過往來得好的趨勢。這似乎可以說明終結者體認到自己實際的價值在於解決危機，產生與過往不同的典範轉移。
 
-## 問題意識
+## Problem Awareness
+1. The prevailing trend involves deploying closers on the field during critical moments. Could this trend potentially influence the analytical results?
+
+2. If this trend is indeed real, which year should serve as the benchmark or turning point?
+
+3. It's plausible that this trend, along with the evolving ethos of baseball, has prompted pitchers to realize that their true value lies in crisis resolution during critical moments. Therefore, do they put in extra effort to excel, even in non-save situations?
+
+#### 問題意識
 1. 現在的趨勢是大家會在關鍵時刻把救援投手放上場，這個趨勢是否會影響到分析結果？
 2. 如果確實有這個趨勢，那麼應該用哪一年作為分水嶺呢？
 3. 或許是這個趨勢，以及棒球風氣的改變，讓投手自己也有意識到:「在關鍵時刻能化解危機，才是真正的價值」。所以他們也會在非救援情況下，盡可能表現？
 
-### TODO: 需要驗證假設：這些終結者的平均救援次數在逐年下降
-暫無數據
 
 ### 在處理完每個投手 + 年度後，應該要確認比較的基準
 
@@ -26,6 +40,10 @@
 http://www.highheatstats.com/2017/06/leadoff-hitters-slugging/
 
 裡面就是拿第一棒跟全聯盟來比。
+
+
+### TODO: 需要驗證假設：這些終結者的平均救援次數在逐年下降
+暫無數據
 
 
 ***
